@@ -1,2 +1,2 @@
-# mytalent
-MyPlanner Talent - My Planner Talent module: including API, Web/Mobile Client and Infrastructure
+# My Talent
+The MyTalent repository is a talent management module within the MyPlanner system, featuring an API, and Web/Mobile infrastructure. Developed primarily in TypeScript and utilizing NestJS, it employs Clean Architecture and Domain-Driven Design (DDD) principles. This setup promotes maintainability and scalable talent management, with TypeORM for database management and PostgreSQL for storage. This module aligns with the overall MyPlanner structure, enhancing functionality for managing talent resources across platforms. Further details can be explored here.
